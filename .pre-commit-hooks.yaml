@@ -1,0 +1,7 @@
+- id: commitlint
+  name: commitlint --edit
+  description: run commitlint on the commit message
+  entry: commitlint
+  language: node
+  pass_filenames: false
+  always_run: true

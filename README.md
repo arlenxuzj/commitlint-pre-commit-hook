@@ -1,0 +1,1 @@
+# commitlint-pre-commit-hook

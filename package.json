@@ -1,0 +1,11 @@
+{
+  "name": "commitlint-pre-commit-hook",
+  "version": "1.0.0",
+  "author": "Zhen Jun Xu",
+  "bin": {
+    "commitlint": "./node_modules/@commitlint/cli/cli.js"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.2.0"
+  }
+}
